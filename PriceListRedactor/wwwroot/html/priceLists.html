@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/styles/styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Прайсы</title>
+</head>
+<body>
+    <div class="content mt-3 ml-5 w-75">
+        <h2>Прайсы</h2>
+        <button class="btn text-white add-button mt-3 mb-3" id="add-price-list">+ Прайс-лист</button>
+        <div class="table-container">
+            <table class="table table-bordered mt-3" id="price-lists-table">
+                <thead>
+                    <tr>
+                        <th>№</th>
+                        <th>Название</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
+
+    <script type="module" src="/scripts/priceLists.js"></script>
+</body>
+</html>

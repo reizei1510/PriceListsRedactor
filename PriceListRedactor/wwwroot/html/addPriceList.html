@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/styles/styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Добавление прайс-листа</title>
+</head>
+<body>
+    <div class="content mt-3 ml-5 w-75">
+        <h2>Добавление прайс-листа</h2>
+        <div class="form-container" id="price-list-form">
+            <form class="form" id="price-list-form">
+                <button type="submit" class="btn text-white mt-3 mb-4 ok-button" id="save-price-list">Продолжить</button>
+                <button type="button" class="btn mt-3 mb-4 back-button" id="cancel-price-list">Отмена</button>
+                <br/>
+                <label for="price-list-name">Название прайс-листа *</label>
+                <input class="form-control mb-3" id="price-list-name" name="price-list-name" />
+                <button type="button" class="btn text-white mt-3 mb-3 add-column-button" id="add-column">Добавить новую колонку</button>
+                <div id="offer-columns">
+                    Или использовать готовую:
+                    <select class="form-control w-50 mb-3" id="select-column"></select>
+                    <button type="button" class="btn text-white add-column-button" id="add-existing-column">Добавить</button>
+                </div>
+                <div class="table-container">
+                    <table class="table table-bordered mt-4" id="price-list-columns-table">
+                        <tbody></tbody>
+                    </table>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script type="module" src="/scripts/addPriceList.js"></script>
+</body>
+</html>

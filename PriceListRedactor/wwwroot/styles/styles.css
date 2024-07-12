@@ -1,0 +1,44 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+.add-button {
+    background: linear-gradient(to bottom, #538ebf, #4f4393);
+}
+
+.ok-button {
+    background: linear-gradient(to bottom, #53b853, #037303);
+}
+
+.back-button {
+    background: linear-gradient(to bottom, #ffffff, #c7c7c7);
+}
+
+.add-column-button {
+    background: linear-gradient(to bottom, #fbbe54, #d48b04);
+}
+
+.delete-button {
+    background: linear-gradient(to bottom, #ee6464, #ad0404);
+}
+
+table thead, th, tr:nth-child(even) {
+    background: #efefef;
+}
+
+#offer-columns {
+    display: none;
+}
+
+#product-form-container {
+    display: none;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 0px 9999px rgba(0, 0, 0, 0.3);
+    border-radius: 5px;
+    padding: 0px 30px 30px 30px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+}

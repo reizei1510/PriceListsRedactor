@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="/styles/styles.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <div class="content mt-3 ml-5 w-75">
+        <h2 id="price-list-title"></h2>
+        <button type="button" class="btn text-white mt-3 mb-4 ok-button" id="add-product">+ Добавить позицию</button>
+        <button type="button" class="btn mt-3 mb-4 back-button" id="back-to-list">Назад к списку</button>
+        <div class="form-container p-4 w-40" id="product-form-container">
+            <h2>Добавление товара</h2>
+            <form class="form mt-4" id="product-form">
+                <label for="name">Название *</label>
+                <input class="name form-control mb-3" name="name"/>
+                <label for="code">Артикул *</label>
+                <input class="code form-control mb-3" name="code" />
+                <div class="table-container">
+                    <table class="table table-bordered" id="product-columns-table">
+                        <tbody></tbody>
+                    </table>
+                </div>
+                <button type="submit" class="btn mt-3 text-white ok-button" id="save-product">Сохранить</button>
+                <button type="button" class="btn mt-3 back-button" id="cancel-product">Закрыть</button>
+            </form>
+        </div>
+        <div class="form-container">
+            <table class="table table-bordered" id="products-table">
+                <thead>
+                    <tr id="products-table-header"></tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+        <div class="container mb-5">
+            <span id="prev-page" style="cursor: pointer; margin-right: 15px">Назад</span>
+            <span id="current-page">1</span> / <span id="total-pages"></span>
+            <span id="next-page" style="cursor: pointer; margin-left: 15px">Вперед</span>
+        </div>
+    </div>
+
+    <script type="module" src="/scripts/priceListContent.js"></script>
+    <script type="module" src="/scripts/addProduct.js"></script>
+</body>
+</html>

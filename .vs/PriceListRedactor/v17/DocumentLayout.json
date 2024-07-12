@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62E98BB0-ECB7-4459-99C9-984AAAFA68CC}|PriceListRedactor\\PriceListRedactor.csproj|c:\\users\\ann\\source\\repos\\pricelistredactor\\pricelistredactor\\wwwroot\\html\\pricelistcontent.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62E98BB0-ECB7-4459-99C9-984AAAFA68CC}|PriceListRedactor\\PriceListRedactor.csproj|solutionrelative:pricelistredactor\\wwwroot\\html\\pricelistcontent.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E98BB0-ECB7-4459-99C9-984AAAFA68CC}|PriceListRedactor\\PriceListRedactor.csproj|c:\\users\\ann\\source\\repos\\pricelistredactor\\pricelistredactor\\wwwroot\\scripts\\addpricelist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{62E98BB0-ECB7-4459-99C9-984AAAFA68CC}|PriceListRedactor\\PriceListRedactor.csproj|solutionrelative:pricelistredactor\\wwwroot\\scripts\\addpricelist.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E98BB0-ECB7-4459-99C9-984AAAFA68CC}|PriceListRedactor\\PriceListRedactor.csproj|c:\\users\\ann\\source\\repos\\pricelistredactor\\pricelistredactor\\controllers\\api\\pricelistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E98BB0-ECB7-4459-99C9-984AAAFA68CC}|PriceListRedactor\\PriceListRedactor.csproj|solutionrelative:pricelistredactor\\controllers\\api\\pricelistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E98BB0-ECB7-4459-99C9-984AAAFA68CC}|PriceListRedactor\\PriceListRedactor.csproj|c:\\users\\ann\\source\\repos\\pricelistredactor\\pricelistredactor\\controllers\\api\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E98BB0-ECB7-4459-99C9-984AAAFA68CC}|PriceListRedactor\\PriceListRedactor.csproj|solutionrelative:pricelistredactor\\controllers\\api\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "priceListContent.html",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\html\\priceListContent.html",
+              "RelativeDocumentMoniker": "PriceListRedactor\\wwwroot\\html\\priceListContent.html",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\html\\priceListContent.html",
+              "RelativeToolTip": "PriceListRedactor\\wwwroot\\html\\priceListContent.html",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-12T18:55:12.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addPriceList.js",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\scripts\\addPriceList.js",
+              "RelativeDocumentMoniker": "PriceListRedactor\\wwwroot\\scripts\\addPriceList.js",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\scripts\\addPriceList.js",
+              "RelativeToolTip": "PriceListRedactor\\wwwroot\\scripts\\addPriceList.js",
+              "ViewState": "AQIAALQAAAAAAAAAAAAQwLkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-12T18:51:35.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\Controllers\\API\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PriceListRedactor\\Controllers\\API\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\Controllers\\API\\ProductsController.cs",
+              "RelativeToolTip": "PriceListRedactor\\Controllers\\API\\ProductsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:48:55.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriceListsController.cs",
+              "DocumentMoniker": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\Controllers\\API\\PriceListsController.cs",
+              "RelativeDocumentMoniker": "PriceListRedactor\\Controllers\\API\\PriceListsController.cs",
+              "ToolTip": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\Controllers\\API\\PriceListsController.cs",
+              "RelativeToolTip": "PriceListRedactor\\Controllers\\API\\PriceListsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T18:45:05.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

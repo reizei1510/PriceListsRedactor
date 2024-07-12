@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\html\\addPriceList.html",
+      "PackagePath": "staticwebassets\\html\\addPriceList.html"
+    },
+    {
+      "Id": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\html\\priceListContent.html",
+      "PackagePath": "staticwebassets\\html\\priceListContent.html"
+    },
+    {
+      "Id": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\html\\priceLists.html",
+      "PackagePath": "staticwebassets\\html\\priceLists.html"
+    },
+    {
+      "Id": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\scripts\\addPriceList.js",
+      "PackagePath": "staticwebassets\\scripts\\addPriceList.js"
+    },
+    {
+      "Id": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\scripts\\addProduct.js",
+      "PackagePath": "staticwebassets\\scripts\\addProduct.js"
+    },
+    {
+      "Id": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\scripts\\elementCreater.js",
+      "PackagePath": "staticwebassets\\scripts\\elementCreater.js"
+    },
+    {
+      "Id": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\scripts\\priceListContent.js",
+      "PackagePath": "staticwebassets\\scripts\\priceListContent.js"
+    },
+    {
+      "Id": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\scripts\\priceLists.js",
+      "PackagePath": "staticwebassets\\scripts\\priceLists.js"
+    },
+    {
+      "Id": "C:\\Users\\ann\\source\\repos\\PriceListRedactor\\PriceListRedactor\\wwwroot\\styles\\styles.css",
+      "PackagePath": "staticwebassets\\styles\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PriceListRedactor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PriceListRedactor.props",
+      "PackagePath": "build\\PriceListRedactor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PriceListRedactor.props",
+      "PackagePath": "buildMultiTargeting\\PriceListRedactor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PriceListRedactor.props",
+      "PackagePath": "buildTransitive\\PriceListRedactor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
